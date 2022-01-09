@@ -4,7 +4,7 @@ Hallo,
 
 Ini adalah project pertama saya. Saya tertarik dalam dunia data science khususnya pada domain data scraping dan analisis, sehingga saya membuat project pertama adalah scraping Data Analyst Jobs di Indonesia yang ada di portal kerja Indeed.com.
 
-Untuk kodenya dapat dilihat di file indeed2.py. Saya menggunakan package datetime untuk menentukan waktu sekarang (hasil kolom today), requests dan bs4 untuk scraping, serta pandas untuk save hasil scraping kedalam file csv.
+Untuk kodenya dapat dilihat di file niko_indeed.py. Saya menggunakan package datetime untuk menentukan waktu sekarang (hasil kolom today), requests dan bs4 untuk scraping, serta pandas untuk save hasil scraping kedalam file csv.
 
 Yang pertama saya lakukan adalah membuat hearder dan setting url, kemudian saya test untuk respon adalah 200 yang artinya diterima dan bisa lanjut untuk scraping.
 
